@@ -1,2 +1,2 @@
-# iocage-plugin-tetris
-Artifact file(s) for Tetris iocage plugin
+# iocage-plugin-qortalcore
+Artifact file(s) for Qortal Core iocage plugin
